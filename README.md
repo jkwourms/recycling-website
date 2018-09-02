@@ -18,3 +18,8 @@ get specific information on recycling for that location.
 | Could link it to CWRU and find all the recycling bin locations (should be reported by the Green Ambassadors) | 2 |
 | Images for what public recycling bins look like in each city | 2 |
 | Use data analytics to sort states with the strictest recycling codes or what items are recycled most often or something else, list by rank | 2 |
+
+# Definition of "Done"
+
+* Have at least 5 states whose recycling codes are listed and functional on website
+* Others...?
